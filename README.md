@@ -10,7 +10,7 @@ This repo helps in creating charts and dashboard based on the user links.
 
 ### Screenshots
 
- #### Dashboard
+ #### Dashboard - screenshot
  
   ![Simulator Screenshot - iPhone 15 Pro - 2024-05-02 at 23 43 39](https://github.com/Vikassingamsetty/Statistics_Dashboard/assets/47664415/9145992d-91d6-4f37-a662-afdd6b6088a1)
 
